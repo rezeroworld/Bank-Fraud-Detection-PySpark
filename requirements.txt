@@ -1,0 +1,6 @@
+# environment
+python==3.10.13
+
+# packages
+pyspark==3.5.0
+xgboost==2.0.0

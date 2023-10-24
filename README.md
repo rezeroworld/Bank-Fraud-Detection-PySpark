@@ -1,2 +1,2 @@
 # Bank-Fraud-Detection-PySpark
-Using Apache Spark to detect frauds in Python
+Welcome to this repository where I used Apache Spark for distributed processing and XGBoost for fraud detection. The data comes from [here](https://www.kaggle.com/datasets/sgpjesus/bank-account-fraud-dataset-neurips-2022/data). I Used only the "Base.csv" to test my model. The classifiaction model achieves 85% AreaUnderROC.
